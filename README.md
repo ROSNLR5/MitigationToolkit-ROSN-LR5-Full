@@ -1,7 +1,7 @@
 ```markdown
 # 🧬 ROSN-LR5 – Kernel LPE PoC & Mitigation Toolkit (CVE-2026-31431)
 
-<img width="5072" height="1536" alt="banner" src="https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full/blob/main/assets/poc-af_alg-exploit.png" />
+<img width="5072" height="1536" alt="banner" src="https://raw.githubusercontent.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full/main/assets/poc-af_alg-exploit.png" />
 
 Herramienta ofensiva y defensiva para la vulnerabilidad **CVE-2026-31431** en sistemas Linux.  
 Combina una prueba de concepto de escalada local de privilegios (LPE) con utilidades para **revisar y mitigar temporalmente** el vector de ataque basado en AF_ALG.
